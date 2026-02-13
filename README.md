@@ -148,20 +148,7 @@ Real-time AWS cost tracking and optimization recommendations
 ### 📈 GitHub Stats
 
 <p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Edokwe&show_icons=true&theme=dark&hide_border=true&bg_color=0D1117&title_color=FF9900&icon_color=FF9900&text_color=FFFFFF" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Edokwe&layout=compact&theme=dark&hide_border=true&bg_color=0D1117&title_color=FF9900&text_color=FFFFFF" />
-</p>
-
-<p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Edokwe&theme=dark&hide_border=true&background=0D1117&ring=FF9900&fire=FF9900&currStreakLabel=FF9900" alt="GitHub Streak" />
-</p>
-
----
-
-### 🏆 GitHub Trophies
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Edokwe&theme=darkhub&no-frame=true&column=7&margin-w=15&margin-h=15" />
 </p>
 
 ---
